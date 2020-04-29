@@ -1,0 +1,18 @@
+{
+  "name": "backend_p10_mongoose",
+  "version": "1.0.0",
+  "description": "",
+  "main": "db.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^5.9.10",
+    "nodemon": "^2.0.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "dev": "nodemon db.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
